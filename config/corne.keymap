@@ -28,6 +28,7 @@
                         global-quick-tap;
                                 
                 };
+                 };
 
         keymap {
                 compatible = "zmk,keymap";
